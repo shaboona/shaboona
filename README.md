@@ -1,3 +1,2 @@
 - 👋 Hi, I’m musab
-- 👀 I’m Web and applications developer 
-- 🌱 I’m currently learning flutter 
+- 👀 I'm a mobile developer applications 
